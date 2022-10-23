@@ -116,7 +116,6 @@ router.delete('/:id', async (req, res) => {
       where: {
         id: req.params.id,
       },
-      include: [{ model: Category }, { model: Tag }],
     });
 
     if (!productsData) {
