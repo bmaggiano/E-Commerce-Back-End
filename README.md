@@ -8,6 +8,20 @@ This is done with Express.js, Sequelize, MySQL2.0, and also protects important d
 
 ## Usage/Walkthrough Videos
 
+Set up (MySQL & Server Side)
+[mysql and server setup.webm](https://user-images.githubusercontent.com/103971233/197649852-69090149-24aa-4f69-addb-1e74bd9825d8.webm)
+
+Product view/add/update/delete demo
+[Product Demo.webm](https://user-images.githubusercontent.com/103971233/197649925-18d66258-3cde-4c7d-829a-0d414352b71f.webm)
+
+Tag view/add/update/delete demo
+
+[Tag Demo.webm](https://user-images.githubusercontent.com/103971233/197649967-139505ca-d2dd-4760-89b2-e951f5a6b02e.webm)
+
+Category view/add/update/delete demo
+
+[Uploading Category Demo.webm…]()
+
 ## Credits
 
 Using MySQL2.0 to add the tables to our application (navigate to db folder, open in integrated terminal, use SOURCE schema.sql; and then USE ecommerce_db; to get started).
