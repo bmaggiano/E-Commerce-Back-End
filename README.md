@@ -16,7 +16,9 @@ To download dependencies for this application (navigate out of db into the main 
 
 To see the database with basic product info/category info/tag info (run the command npm run seed).
 
-To finally run the server (run the command node server)
+To finally run the server (run the command node server). 
+
+We also will be using Insomnia to show case the json data being translated behind the scenes.
 
 ## License
 
